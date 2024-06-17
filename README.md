@@ -58,6 +58,11 @@ By considering proportion in UX/UI design, designers can create interfaces that 
 ![image](https://github.com/istarter/uxui-principles/assets/11480617/d8d0cf63-beb0-44c7-8de5-c2c10540e1bb)
 ![image](https://github.com/istarter/uxui-principles/assets/11480617/1efedc0b-595a-45d5-834f-a9f0126c5239)
 
+### Inspiration websites for fonts design 
+- [Awwwards](https://www.awwwards.com/')
+- [TheFWA](https://thefwa.com/')
+- [Type Wolf](https://www.typewolf.com/')
+- [Dominica Dafont]([https://www.typewolf.com/](https://www.dafont.com/dominica-calligraphy.font)')
 
 ### Best font names
 
@@ -66,5 +71,24 @@ By considering proportion in UX/UI design, designers can create interfaces that 
 3: DinPRO
 4: Colfax
 5: Circular
+6: Geograph
+7: karbonTest or Ubuntu font
 6: Proxima
 7: Recoleta
+8: Metric
+9: Pitch
+10: Sohne Breit
+11: Airbnb 
+12: Apercu Mono:  can be useful in many projects 
+13: Avnr-Nxt-Pro: Classic used in Dashboard/Website
+14: AzoSans
+15: Camphor Pro: for a warm look 
+16: Circular-std: can be used everywhere.
+17: Eina: visibility is clear
+18: Gotham
+19: Jost
+20: Manrope
+21: Recoleta: font is using by upwork
+22: Shantex: for gaming website
+23: spacegrotesk: For tech product
+24: Proxima Nova: sharp information for warm look. 
