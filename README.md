@@ -45,9 +45,19 @@ Responsive Design:
 By considering proportion in UX/UI design, designers can create interfaces that are not only visually appealing but also functional, intuitive, and user-friendly.
 
 - If there is a design block or rich information in the design then design tool Proximity using the same information group together.
-- A good UXUI designer is that if a client approaches the designer and asks to redesign the old 2010 design website a good approach can be a good information architect, the old website was 50 pages and the new design comes to 30-40 pages that's how well does the designer architect that information?  
+- A good UXUI designer is that if client the designer asks to redesign the old 2010 design website a good approach can be a good information architect, the old website was 50 pages and the new design comes to 30-40 pages that's how well does the designer architect that information?  
 ![image](https://github.com/istarter/uxui-principles/assets/11480617/fb7b1218-783b-4b55-8344-218c929ae99a)
 ![image](https://github.com/istarter/uxui-principles/assets/11480617/208882b1-03b1-42c2-8e15-a2cf95a1b46a)
+
+-  In the art and science of typography, it is crucial for effective visual communication. This extensive resource delves into font selection, and style integration, including a comprehensive examination of different styles of typography, and layout tactics, highlighting their significance in influencing perception, user engagement, and message clarity. It is packed with illustrative examples that demonstrate the power of typography in shaping emotions, defining brand identities, and improving the functionality of both digital and printed materials. Through hands-on exercises and valuable insights, readers are equipped to master the nuances of typography, including the exploration of various styles, elevating their design proficiency.
+
+![image](https://github.com/istarter/uxui-principles/assets/11480617/92872545-406d-48fb-91e3-ae32508ccaf0)
+![image](https://github.com/istarter/uxui-principles/assets/11480617/5b1304a9-f030-4309-894b-83566bfd7db6)
+![image](https://github.com/istarter/uxui-principles/assets/11480617/ffe2592a-8d3c-426f-974c-6915147864dd)
+![image](https://github.com/istarter/uxui-principles/assets/11480617/6d1056d7-c9b5-4785-9172-37eeb6ca0010)
+![image](https://github.com/istarter/uxui-principles/assets/11480617/d8d0cf63-beb0-44c7-8de5-c2c10540e1bb)
+![image](https://github.com/istarter/uxui-principles/assets/11480617/1efedc0b-595a-45d5-834f-a9f0126c5239)
+
 
 ### Best font names
 
