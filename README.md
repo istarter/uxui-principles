@@ -59,6 +59,7 @@ By considering proportion in UX/UI design, designers can create interfaces that 
 ![image](https://github.com/istarter/uxui-principles/assets/11480617/1efedc0b-595a-45d5-834f-a9f0126c5239)
 
 ### Inspiration websites for font design 
+- [Laws of UX](https://lawsofux.com/)
 - [Awwwards](https://www.awwwards.com/')
 - [TheFWA](https://thefwa.com/')
 - [Type Wolf](https://www.typewolf.com/')
