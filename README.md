@@ -70,6 +70,8 @@ By considering proportion in UX/UI design, designers can create interfaces that 
 - [Dominica Dafont]([https://www.typewolf.com/](https://www.dafont.com/dominica-calligraphy.font)')
 - [The Minimalists](https://www.theminimalists.com/')
 - ![image](https://github.com/istarter/uxui-principles/assets/11480617/809f27c3-544f-48f0-8761-b4c6c4213233)
+- Sometimes when the client match the design with the developed website/Mobile app so he dont see the exact same design, on the developer point of view he copied exact properties of the design but still it doesn't look the same, so he might space some other detail as well but mostly probably he missed the letter spacing between the character, baseline, leading,line height and weight so the overall propertional and hirarchy get disturbed. It's also part of usibility testing it's called alpha usibility testing is it pixel perfect or not.
+- In typography Leading or line height is a spacing between each line in the paragraph. Leading is the design term and line height is the property for the developer.       
 
 
 ### Best font names
@@ -100,3 +102,20 @@ By considering proportion in UX/UI design, designers can create interfaces that 
 - Shantex: for gaming website
 - Spacegrotesk: For tech product
 - Proxima Nova: sharp information for a warm look. 
+
+### UX Audit
+A UX audit is a thorough evaluation of a product's user experience to identify usability issues and areas for improvement, aiming to enhance user satisfaction and overall effectiveness. A UX audit is in the documentation form or in shape form can be wireframe as well to deliever your point.   
+A UX audit typically includes the evaluation of:
+
+1. Usability: Assessing ease of use, navigation, and user interaction.
+2. Accessibility: Ensuring the product is usable by people with various disabilities.
+3. Performance: Analyzing loading times, responsiveness, and overall speed.
+4. Content: Reviewing clarity, relevance, and organization of information.
+5. Design: Examining visual elements, consistency, and alignment with brand identity.
+6. User Flow: Checking the efficiency and intuitiveness of user journeys.
+7. Functionality: Ensuring all features work as intended without bugs.
+8. Mobile Responsiveness: Verifying that the product performs well on mobile devices.
+9. Analytics: Using data to understand user behavior and identify problem areas.
+10. Competitor Analysis: Comparing with similar products to identify strengths and weaknesses.
+
+- Investing in the design it means you are investing in the business so in the future there won't be much repeation of the development procsess. 
