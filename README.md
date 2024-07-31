@@ -118,4 +118,12 @@ A UX audit typically includes the evaluation of:
 9. Analytics: Using data to understand user behavior and identify problem areas.
 10. Competitor Analysis: Comparing with similar products to identify strengths and weaknesses.
 
-- Investing in the design it means you are investing in the business so in the future there won't be much repeation of the development procsess. 
+- Investing in the design it means you are investing in the business so in the future there won't be much repeation of the development procsess.
+
+### Hierarchy
+
+![image](https://github.com/user-attachments/assets/9ddcae7f-9fd9-4712-91a3-a6822c3306f5)
+![image](https://github.com/user-attachments/assets/17687007-5ca0-4e1a-b2cd-e6b15820fe34)
+
+
+
