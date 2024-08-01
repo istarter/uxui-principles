@@ -9,7 +9,8 @@
 *** Introduction & Getting Deeper into Contrast" explores the foundational elements that distinguish exceptional design, starting with an overview of design principles. It delves into the concept of contrast, highlighting its critical role in capturing attention and creating visual interest. Through this focus, the book aims to provide readers with an understanding of how contrast can be effectively utilized to enhance the overall impact of their design work.
 
 ![image](https://github.com/istarter/ux-ui-notes/assets/11480617/1f213c29-e27a-4ac8-a63b-5279b6aea34c)
-![image](https://github.com/istarter/ux-ui-notes/assets/11480617/642353e0-d791-497e-af58-e3675566ab48)
+![image](https://github.com/user-attachments/assets/bd3872dc-72a5-490a-b6d0-e59bcd04da59)
+
 
 Contrast refers to different elements in a design, particularly adjacent element differences that make various aspects stand out. 
 ![image](https://github.com/istarter/ux-ui-notes/assets/11480617/875e088a-cf75-4553-9ca0-f88063d66884)
