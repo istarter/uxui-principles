@@ -165,5 +165,19 @@ A UX audit typically includes the evaluation of:
 ![image](https://github.com/user-attachments/assets/9ddcae7f-9fd9-4712-91a3-a6822c3306f5)
 ![image](https://github.com/user-attachments/assets/17687007-5ca0-4e1a-b2cd-e6b15820fe34)
 
+### Repetition & Pattern
+![image](https://github.com/user-attachments/assets/ccbde566-1174-4c6f-b530-14edbe530db3)
+![image](https://github.com/user-attachments/assets/36e1a2d1-a76c-4213-b174-9ace71da128f)
+![image](https://github.com/user-attachments/assets/4c851319-20a9-40f7-a82c-f7d837315d7f)
+![image](https://github.com/user-attachments/assets/870976b2-dd35-4afa-b40e-ebf6d83f71ac)
+![image](https://github.com/user-attachments/assets/acdd2e94-18e8-4e25-919f-36594b8e6141)
 
+### Colour Theory
+![image](https://github.com/user-attachments/assets/2fe67626-976d-4159-a9a0-5728f86863a9)
+![image](https://github.com/user-attachments/assets/eb2c2984-5d15-4cfc-a704-686190ca4c02)
+![image](https://github.com/user-attachments/assets/1d29f56f-4fe9-4dd3-a144-f05acd8bc915)
+![image](https://github.com/user-attachments/assets/e8f50e82-bfae-42e7-9a63-ea8a7030676b)
+![image](https://github.com/user-attachments/assets/06c89261-484c-4a90-b4f8-33568bcac55e)
+![image](https://github.com/user-attachments/assets/c50d2dca-4398-4586-a0af-5be2545c1280)
+![image](https://github.com/user-attachments/assets/3b9f111d-4082-4f00-8a26-20dd8b6a51a5)
 
