@@ -180,4 +180,11 @@ A UX audit typically includes the evaluation of:
 ![image](https://github.com/user-attachments/assets/06c89261-484c-4a90-b4f8-33568bcac55e)
 ![image](https://github.com/user-attachments/assets/c50d2dca-4398-4586-a0af-5be2545c1280)
 ![image](https://github.com/user-attachments/assets/3b9f111d-4082-4f00-8a26-20dd8b6a51a5)
-
+![image](https://github.com/user-attachments/assets/bb50450e-beb7-408b-90c7-89c2024d2572)
+![image](https://github.com/user-attachments/assets/e4be23bc-616f-4c2c-861d-ec68b50b529d)
+![image](https://github.com/user-attachments/assets/89fdd5b6-bd3d-4a08-91f4-50ffca57ede7)
+![image](https://github.com/user-attachments/assets/d866320f-6825-412f-96a8-1001f01bc70f)
+![image](https://github.com/user-attachments/assets/610c1fce-1bbd-41ca-9e35-8db5f6d8c169)
+![image](https://github.com/user-attachments/assets/bebc9be7-3090-42bd-be8b-6ac37670f3e7)
+![image](https://github.com/user-attachments/assets/5b4708da-1d94-4466-a0c8-f283580b7ed3)
+![image](https://github.com/user-attachments/assets/387f3c5c-d856-473f-ab11-8c3ecdca0c18)
