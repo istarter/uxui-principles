@@ -188,3 +188,19 @@ A UX audit typically includes the evaluation of:
 ![image](https://github.com/user-attachments/assets/bebc9be7-3090-42bd-be8b-6ac37670f3e7)
 ![image](https://github.com/user-attachments/assets/5b4708da-1d94-4466-a0c8-f283580b7ed3)
 ![image](https://github.com/user-attachments/assets/387f3c5c-d856-473f-ab11-8c3ecdca0c18)
+
+### Unity in Design (Creating Uniform Designs)
+![image](https://github.com/user-attachments/assets/c01152f1-d23e-43a3-8070-e916d7b53bcd)
+![image](https://github.com/user-attachments/assets/e54aba48-b261-4e96-8e0b-d9f3b0896230)
+![image](https://github.com/user-attachments/assets/a42b75cf-1c74-424c-b216-78a121c6382a)
+![image](https://github.com/user-attachments/assets/07571977-49e9-48df-b5fa-5523bc0d9e55)
+
+### Movement
+Use the design elements to guide the eye from one point to another. 
+![image](https://github.com/user-attachments/assets/4493a290-d15b-436e-86c5-1fe8d42a13d6)
+
+### Verity (Get rid of boring designs)
+![image](https://github.com/user-attachments/assets/458cd0df-6d6b-45e0-8bbb-1031f88f324f)
+![image](https://github.com/user-attachments/assets/36aa0f1a-5f78-4f58-8329-81af3194ad49)
+![image](https://github.com/user-attachments/assets/29bc7e4c-7c2c-4b4f-ab55-90014db1b507)
+![image](https://github.com/user-attachments/assets/77602042-7216-4d2e-8abd-838e9a9a82ac)
