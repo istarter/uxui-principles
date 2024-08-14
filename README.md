@@ -205,3 +205,6 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/36aa0f1a-5f78-4f58-8329-81af3194ad49)
 ![image](https://github.com/user-attachments/assets/29bc7e4c-7c2c-4b4f-ab55-90014db1b507)
 ![image](https://github.com/user-attachments/assets/77602042-7216-4d2e-8abd-838e9a9a82ac)
+
+### Figma Plugins
+- Color shades kit
