@@ -216,4 +216,8 @@ Use the design elements to guide the eye from one point to another.
 
 
 ### Challanges
-- A shape send back to the hero-section and want to visible that object or shape little bit and the section background color is black. 
+- A shape send back to the hero-section and want to visible that object or shape little bit and the section background color is black.
+
+
+### Random Points
+- In the Moodboard we collect all the inspiration images from the dribble behance etc.
