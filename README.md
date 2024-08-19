@@ -222,3 +222,4 @@ Use the design elements to guide the eye from one point to another.
 
 ### Random Points
 - In the Moodboard we collect all the inspiration images from the dribble behance etc.
+- Play smart if a client approach you whether web app idea or mobile app just take the basic requirments than him and use chatgpt and write a prompt the basic flow of any app for example what is the basic flow of crypto wallet do chitchat with chatgpt and get the flow from it. 
