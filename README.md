@@ -6,6 +6,7 @@
 - [M3 Material Design](https://m3.material.io/)
 - [Ideo Design](https://www.ideo.com/)
 - [Generate interface designs](https://www.usegalileo.ai/explore)
+- [Gasper AI](https://www.jasper.ai/)
 
 ## Mastering Visual Design Principles (Highly Recommended)
 *** Introduction & Getting Deeper into Contrast" explores the foundational elements that distinguish exceptional design, starting with an overview of design principles. It delves into the concept of contrast, highlighting its critical role in capturing attention and creating visual interest. Through this focus, the book aims to provide readers with an understanding of how contrast can be effectively utilized to enhance the overall impact of their design work.
