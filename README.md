@@ -228,4 +228,4 @@ Use the design elements to guide the eye from one point to another.
 
 
 ### Sell Yourself / Business Points
-- Getting requirments from the client it's better to have a thoughtful questionnaire propared by a team when the client fill the form so the designer or the team know what do now.  
+- Getting requirments from the client it's better to have a thoughtful questionnaire based on experince and perspective propared by a team when the client fill the form so the designer or the team know what do now.  
