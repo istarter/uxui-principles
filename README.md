@@ -237,3 +237,9 @@ Use the design elements to guide the eye from one point to another.
 ### Design System
 
 ![image](https://github.com/user-attachments/assets/8f93b850-4f87-4146-8023-af3f7608cc8b)
+![image](https://github.com/user-attachments/assets/a98b9068-6d31-40a6-b708-f18791d583cd)
+![image](https://github.com/user-attachments/assets/308b2762-ce12-4e54-8c83-b24cf697ccb9)
+![image](https://github.com/user-attachments/assets/2d3007a8-8280-48c0-9472-dde7ef80a7a0)
+![image](https://github.com/user-attachments/assets/b85762f3-2bd3-471b-ac25-c831a7ae3a12)
+![image](https://github.com/user-attachments/assets/9b22f8a7-6f26-46a7-b7f1-6225e88ea804)
+
