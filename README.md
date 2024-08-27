@@ -209,6 +209,8 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/29bc7e4c-7c2c-4b4f-ab55-90014db1b507)
 ![image](https://github.com/user-attachments/assets/77602042-7216-4d2e-8abd-838e9a9a82ac)
 
+
+
 ### Figma Plugins
 - Color shades kit
 - Feather Icons
@@ -216,6 +218,8 @@ Use the design elements to guide the eye from one point to another.
 
 ### Color Theory
 - Semantic colors: In a traffic light system, red signals drivers to stop, green indicates it's safe to go, and yellow warns them to slow down and prepare to stop. Similarly, in a user interface, a red button might represent "Delete," a green button "Submit," and a yellow icon could signify a warning or pending action.
+- Pastel color: These colors are use in the card or some card data in the dashboard.
+  [Pastel color](https://github.com/user-attachments/assets/4c03dc80-1afc-410f-8e85-ebd8bd2a0b54)
 
 
 ### Challanges
