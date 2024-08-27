@@ -219,7 +219,7 @@ Use the design elements to guide the eye from one point to another.
 ### Color Theory
 - Semantic colors: In a traffic light system, red signals drivers to stop, green indicates it's safe to go, and yellow warns them to slow down and prepare to stop. Similarly, in a user interface, a red button might represent "Delete," a green button "Submit," and a yellow icon could signify a warning or pending action.
 - Pastel color: These colors are use in the card or some card data in the dashboard.
-  [Pastel color](https://github.com/user-attachments/assets/4c03dc80-1afc-410f-8e85-ebd8bd2a0b54)
+- [Pastel color](https://github.com/user-attachments/assets/4c03dc80-1afc-410f-8e85-ebd8bd2a0b54)
 
 
 ### Challanges
