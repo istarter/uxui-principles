@@ -9,6 +9,7 @@
 - [Gasper AI](https://www.jasper.ai/)
 - [Product Hunt](https://www.producthunt.com/)
 - [Wise Design](https://wise.design/)
+- [Mizko Courses](https://www.thedesignership.com/courses/the-ultimate-figma-masterclass)
 
 ## Mastering Visual Design Principles (Highly Recommended)
 *** Introduction & Getting Deeper into Contrast" explores the foundational elements that distinguish exceptional design, starting with an overview of design principles. It delves into the concept of contrast, highlighting its critical role in capturing attention and creating visual interest. Through this focus, the book aims to provide readers with an understanding of how contrast can be effectively utilized to enhance the overall impact of their design work.
