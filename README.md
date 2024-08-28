@@ -8,6 +8,7 @@
 - [Generate interface designs, AI](https://www.usegalileo.ai/explore)
 - [Gasper AI](https://www.jasper.ai/)
 - [Product Hunt](https://www.producthunt.com/)
+- [Wise Design](https://wise.design/)
 
 ## Mastering Visual Design Principles (Highly Recommended)
 *** Introduction & Getting Deeper into Contrast" explores the foundational elements that distinguish exceptional design, starting with an overview of design principles. It delves into the concept of contrast, highlighting its critical role in capturing attention and creating visual interest. Through this focus, the book aims to provide readers with an understanding of how contrast can be effectively utilized to enhance the overall impact of their design work.
@@ -242,4 +243,8 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/2d3007a8-8280-48c0-9472-dde7ef80a7a0)
 ![image](https://github.com/user-attachments/assets/b85762f3-2bd3-471b-ac25-c831a7ae3a12)
 ![image](https://github.com/user-attachments/assets/9b22f8a7-6f26-46a7-b7f1-6225e88ea804)
+![image](https://github.com/user-attachments/assets/9589c972-513c-4ee5-8c4f-3112e2aca220)
+![image](https://github.com/user-attachments/assets/4d6e3faf-f764-43c8-9911-95151d5fe4cb)
+![image](https://github.com/user-attachments/assets/40c00d9d-27c3-421c-bcec-f9aa84ad2034)
+
 
