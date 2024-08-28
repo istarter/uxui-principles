@@ -249,5 +249,35 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/40c00d9d-27c3-421c-bcec-f9aa84ad2034)
 ![image](https://github.com/user-attachments/assets/d0b750e7-d87e-46fc-9a94-65b8f75626ab)
 ![Screenshot 2024-08-28 at 4 41 26 PM](https://github.com/user-attachments/assets/a0b6514e-01eb-4725-9fdd-dd50f8915f20)
+![Screenshot 2024-08-28 at 4 46 43 PM](https://github.com/user-attachments/assets/cfd2622f-ea15-47bd-9fa5-e81551e21840)
 
+
+### Atomic Design System Features
+
+#### 1. Tokens (Atoms)
+- **Definition:** The most basic, indivisible elements of a design, such as colors, typography, spacing, and shadows.
+- **Example:** 
+  - Primary color: `#3498db`
+  - Font size: `16px`
+  - Border radius: `4px`
+
+#### 2. Components (Molecules)
+- **Definition:** Simple UI elements composed of multiple atoms, functioning as basic building blocks.
+- **Example:** 
+  - Button: `<button>` element, which includes a color token, a font size token, and padding.
+
+#### 3. Composite Components (Organisms)
+- **Definition:** More complex UI elements that combine molecules to form a distinct section of a UI.
+- **Example:** 
+  - Card Component: Includes an image, text, and a button molecule.
+
+#### 4. Templates
+- **Definition:** Page-level objects that place components in a layout, defining the content structure.
+- **Example:** 
+  - Product Page Template: Organizes cards (organisms) in a grid layout.
+
+#### 5. Pages
+- **Definition:** Specific instances of templates with real content, representing the final UI.
+- **Example:** 
+  - Homepage: Populated with actual product cards and text content, representing the end-user experience.
 
