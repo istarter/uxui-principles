@@ -216,6 +216,7 @@ Use the design elements to guide the eye from one point to another.
 ### Figma Plugins
 - Color shades kit
 - Feather Icons
+- Typescales
 
 
 ### Color Theory
