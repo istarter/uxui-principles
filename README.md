@@ -285,3 +285,5 @@ Use the design elements to guide the eye from one point to another.
 #### Existing Design System Names
 - Untitled UI Pro Design System
 
+#### Design System Light and Dark Mode
+![Screenshot 2024-08-30 at 11 46 50 AM](https://github.com/user-attachments/assets/11f765c4-a0a1-459f-ae6a-be30d80d7e75)
