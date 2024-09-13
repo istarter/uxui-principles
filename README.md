@@ -297,3 +297,8 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/e9985519-44b3-48ab-aa86-5109a1a2301b)
 ![image](https://github.com/user-attachments/assets/8828c140-059d-47ec-a282-044b10b2ad91)
 ![image](https://github.com/user-attachments/assets/9f2af8c2-1e71-441c-898a-9cd26b4a47cd)
+
+## The backbone of your design career: Personal Brand
+![image](https://github.com/user-attachments/assets/c2ecb50b-9cb9-4e69-a785-802410a9db7b)
+![image](https://github.com/user-attachments/assets/bcd55820-bc78-4211-acbf-2523e008c501)
+
