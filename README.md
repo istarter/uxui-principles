@@ -288,7 +288,9 @@ Use the design elements to guide the eye from one point to another.
 #### Design System Light and Dark Mode
 ![Screenshot 2024-08-30 at 11 46 50 AM](https://github.com/user-attachments/assets/11f765c4-a0a1-459f-ae6a-be30d80d7e75)
 
-## Sell Yourself As A Designer/Creative 
+# Sell Yourself As A Designer/Creative 
+
+## The backbone of your design career: Personal Brand
 ![Screenshot 2024-08-30 at 4 43 37 PM](https://github.com/user-attachments/assets/1ae84a21-1686-464a-ac5d-692c6d168d26)
 ![image](https://github.com/user-attachments/assets/890a61bb-5739-440d-9fa2-e81358896edd)
 ![image](https://github.com/user-attachments/assets/14ef96f1-2412-4e1b-841e-86d96d2b66f4)
@@ -298,7 +300,4 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/8828c140-059d-47ec-a282-044b10b2ad91)
 ![image](https://github.com/user-attachments/assets/9f2af8c2-1e71-441c-898a-9cd26b4a47cd)
 
-## The backbone of your design career: Personal Brand
-![image](https://github.com/user-attachments/assets/c2ecb50b-9cb9-4e69-a785-802410a9db7b)
-![image](https://github.com/user-attachments/assets/bcd55820-bc78-4211-acbf-2523e008c501)
 
