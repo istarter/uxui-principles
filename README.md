@@ -300,4 +300,7 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/8828c140-059d-47ec-a282-044b10b2ad91)
 ![image](https://github.com/user-attachments/assets/9f2af8c2-1e71-441c-898a-9cd26b4a47cd)
 
-
+## Crafting a stand out portfolio: Philosophy and Step by Step Guide
+![image](https://github.com/user-attachments/assets/c3c82137-54f6-44f4-a746-14b5dd17af95)
+![image](https://github.com/user-attachments/assets/76477c5e-6f65-40dc-b69f-e681c6a9a2e3)
+![image](https://github.com/user-attachments/assets/38717c8a-c730-4ce6-80a1-8f0a87b71471)
