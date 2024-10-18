@@ -10,6 +10,9 @@
 - [Product Hunt](https://www.producthunt.com/)
 - [Wise Design](https://wise.design/)
 - [Mizko Courses](https://www.thedesignership.com/courses/the-ultimate-figma-masterclass)
+- [Staff Augmentation](https://www.toptal.com/insights/future-of-work/what-is-staff-augmentation)
+- [Self Control Extention](https://chromewebstore.google.com/detail/self-control/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en)
+- [Linkedin Sales Navigator]
 
 ## Mastering Visual Design Principles (Highly Recommended)
 *** Introduction & Getting Deeper into Contrast" explores the foundational elements that distinguish exceptional design, starting with an overview of design principles. It delves into the concept of contrast, highlighting its critical role in capturing attention and creating visual interest. Through this focus, the book aims to provide readers with an understanding of how contrast can be effectively utilized to enhance the overall impact of their design work.
@@ -311,3 +314,9 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/ed4a78db-dd28-4507-bac9-b289391bc4f1)
 ![image](https://github.com/user-attachments/assets/7c2f9d2a-cefd-4ff1-996b-961eae015d6a)
 ![image](https://github.com/user-attachments/assets/131ffc59-db22-4e5b-9d7b-86ccd99e03cd)
+![image](https://github.com/user-attachments/assets/47bae993-5faf-4346-b63e-bd95206882c0)
+![image](https://github.com/user-attachments/assets/f55d8c2a-5df9-497f-8a49-d19ce741cab9)
+![image](https://github.com/user-attachments/assets/b209e173-d151-4f63-93d6-33891267ac63)
+![image](https://github.com/user-attachments/assets/66ca7411-7b1b-47be-8c13-82abecf9b8f0)
+![image](https://github.com/user-attachments/assets/906b7941-ddba-4cba-a059-4e926821570e)
+
