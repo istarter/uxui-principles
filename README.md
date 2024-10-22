@@ -320,3 +320,10 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/66ca7411-7b1b-47be-8c13-82abecf9b8f0)
 ![image](https://github.com/user-attachments/assets/906b7941-ddba-4cba-a059-4e926821570e)
 
+# Using Social Media For Visibility
+
+![image](https://github.com/user-attachments/assets/17085469-e058-4229-98ff-51d0578ebccd)
+![image](https://github.com/user-attachments/assets/845c720a-c395-4ac8-89ae-8b6f11fb9db6)
+![image](https://github.com/user-attachments/assets/b67552f5-7b16-45a4-8168-2ccaf49d00fe)
+![image](https://github.com/user-attachments/assets/5ca940bb-80ab-4685-be2d-47536fca6ba8)
+
