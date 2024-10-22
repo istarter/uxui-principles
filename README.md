@@ -14,6 +14,13 @@
 - [Self Control Extention](https://chromewebstore.google.com/detail/self-control/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en)
 - [Linkedin Sales Navigator]
 
+## 4 Pillars for Linkdin Growth
+
+- Content / Post etc
+- Profile
+- DM (Direct Message)
+- Comments
+
 ## Mastering Visual Design Principles (Highly Recommended)
 *** Introduction & Getting Deeper into Contrast" explores the foundational elements that distinguish exceptional design, starting with an overview of design principles. It delves into the concept of contrast, highlighting its critical role in capturing attention and creating visual interest. Through this focus, the book aims to provide readers with an understanding of how contrast can be effectively utilized to enhance the overall impact of their design work.
 
