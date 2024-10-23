@@ -334,3 +334,18 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/b67552f5-7b16-45a4-8168-2ccaf49d00fe)
 ![image](https://github.com/user-attachments/assets/5ca940bb-80ab-4685-be2d-47536fca6ba8)
 
+# The art of negotiation and winning in your design career
+
+### Negotiating Contracts and Rates
+
+![image](https://github.com/user-attachments/assets/24a857fc-79b1-48ca-ba5c-6df73845054d)
+![image](https://github.com/user-attachments/assets/0a848588-c1db-4fd1-a43c-fb232300c05e)
+![image](https://github.com/user-attachments/assets/c7367134-a49a-49e0-8c14-9c5e8b46799a)
+![image](https://github.com/user-attachments/assets/f1e2e005-eec7-4502-8dca-3e07540e29f0)
+![image](https://github.com/user-attachments/assets/51e5e289-24d3-4466-a483-b3bfd151b1ce)
+![image](https://github.com/user-attachments/assets/26ba3361-2e6d-4dbd-bdab-fa307aa39dd0)
+![image](https://github.com/user-attachments/assets/9693d01e-0722-4dfa-be46-9e2c239a2104)
+![image](https://github.com/user-attachments/assets/9d595f73-495e-4a54-ad60-c70d63ae03b3)
+![image](https://github.com/user-attachments/assets/e2f7c308-9279-4bb7-8811-e09ebc02aada)
+![image](https://github.com/user-attachments/assets/9744380e-be47-4185-9cfb-15d2a4cde557)
+![image](https://github.com/user-attachments/assets/bf8a2013-2f63-40cc-9e22-c2074ae5a0f0)
