@@ -349,3 +349,8 @@ Use the design elements to guide the eye from one point to another.
 ![image](https://github.com/user-attachments/assets/e2f7c308-9279-4bb7-8811-e09ebc02aada)
 ![image](https://github.com/user-attachments/assets/9744380e-be47-4185-9cfb-15d2a4cde557)
 ![image](https://github.com/user-attachments/assets/bf8a2013-2f63-40cc-9e22-c2074ae5a0f0)
+
+![image](https://github.com/user-attachments/assets/856b1361-15d0-4562-b12c-fd950e41a3f4)
+![image](https://github.com/user-attachments/assets/b41f3611-b5d8-4a3d-9844-9f8f2c32999b)
+
+
