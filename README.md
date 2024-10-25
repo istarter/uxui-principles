@@ -15,7 +15,7 @@
 - [Choose a color](https://mycolor.space/)
 - [Linkedin Sales Navigator]
 
-## 4 Pillars for Linkdin Growth
+## 4 Pillars of Linkdin Growth
 
 - Content / Post etc
 - Profile
