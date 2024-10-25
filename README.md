@@ -12,6 +12,7 @@
 - [Mizko Courses](https://www.thedesignership.com/courses/the-ultimate-figma-masterclass)
 - [Staff Augmentation](https://www.toptal.com/insights/future-of-work/what-is-staff-augmentation)
 - [Self Control Extention](https://chromewebstore.google.com/detail/self-control/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en)
+- [Choose a color](https://mycolor.space/)
 - [Linkedin Sales Navigator]
 
 ## 4 Pillars for Linkdin Growth
@@ -352,5 +353,14 @@ Use the design elements to guide the eye from one point to another.
 
 ![image](https://github.com/user-attachments/assets/856b1361-15d0-4562-b12c-fd950e41a3f4)
 ![image](https://github.com/user-attachments/assets/b41f3611-b5d8-4a3d-9844-9f8f2c32999b)
+![image](https://github.com/user-attachments/assets/19f0234a-c8f3-4ba9-9ac1-aa6ff5c1ac43)
+![image](https://github.com/user-attachments/assets/7c5ed101-3463-4116-a8df-d44176d1487d)
+![image](https://github.com/user-attachments/assets/9265f4c4-46bc-4433-8be9-6c02c468555d)
+![image](https://github.com/user-attachments/assets/767beb94-19ff-41e1-9612-f95c19f20b57)
+![image](https://github.com/user-attachments/assets/c842055c-4e9f-4731-b640-8c8881d284e4)
+![image](https://github.com/user-attachments/assets/df391917-616e-46b9-a5eb-0f30b2fac570)
+![image](https://github.com/user-attachments/assets/753058c8-e691-45ff-8efd-f281a8c515db)
+![image](https://github.com/user-attachments/assets/6ff650a1-7af4-490c-8f2c-b6435b557316)
+![image](https://github.com/user-attachments/assets/5ec993f7-bb6c-4b96-b1ef-64cb1d1b79eb)
 
 
