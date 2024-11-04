@@ -13,6 +13,7 @@
 - [Staff Augmentation](https://www.toptal.com/insights/future-of-work/what-is-staff-augmentation)
 - [Self Control Extention](https://chromewebstore.google.com/detail/self-control/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en)
 - [Choose a color](https://mycolor.space/)
+- [Flow Diagram](https://www.flowmapp.com/features/userflow)
 - [Linkedin Sales Navigator]
 
 ## 4 Pillars of Linkdin Growth
