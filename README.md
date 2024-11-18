@@ -594,10 +594,6 @@ The Double Diamond framework ensures a structured, iterative, and user-centered 
 
 ---
 
-### **License**  
-This content is open-source and can be freely used to understand or implement the Double Diamond framework.
-
-
 ### License
 
 This repository is open-source and freely available for anyone preparing for UX/UI interviews or evaluating candidates.
