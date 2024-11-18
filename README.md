@@ -497,13 +497,106 @@ I use metrics like conversion rates and task success rates, leveraging tools lik
 
 ---
 
-## How to Use This Repository
+# The Double Diamond Framework
 
-1. **Job Candidates**: Use these questions and answers to prepare for UX/UI design interviews.  
-2. **Interviewers**: Select relevant questions based on the specific competencies you wish to evaluate.  
-3. **Students and Learners**: Familiarize yourself with these questions to align with industry expectations.
+The **Double Diamond** is a design methodology and visual framework developed by the **Design Council (UK)**. It helps teams navigate the creative design process by organizing it into **four key phases** grouped into **two diamonds**: **Discover, Define, Develop, and Deliver**. It emphasizes the use of **divergent** and **convergent thinking** to solve problems effectively.
 
 ---
+
+## **The Four Phases of the Double Diamond**
+
+### 1. Discover (Divergent Thinking)  
+- **Focus**: Explore and understand the problem.  
+- **Activities**:  
+  - User research  
+  - Stakeholder interviews  
+  - Competitor analysis  
+  - Empathy mapping  
+- **Goal**: Gather insights and identify the true needs of the users.  
+- **Example**: Conducting surveys and focus groups to uncover user pain points.
+
+---
+
+### 2. Define (Convergent Thinking)  
+- **Focus**: Narrow down the problem space by synthesizing findings.  
+- **Activities**:  
+  - Problem definition  
+  - Creating user personas  
+  - Identifying key opportunities  
+- **Goal**: Clearly articulate the problem to be solved (design brief).  
+- **Example**: Writing a clear problem statement like:  
+  *"How can we make online payments easier for first-time users?"*
+
+---
+
+### 3. Develop (Divergent Thinking)  
+- **Focus**: Generate and explore potential solutions.  
+- **Activities**:  
+  - Brainstorming  
+  - Ideation workshops  
+  - Prototyping  
+  - Wireframing  
+- **Goal**: Experiment with different ideas and test their feasibility.  
+- **Example**: Creating low-fidelity prototypes to test multiple ideas with users.
+
+---
+
+### 4. Deliver (Convergent Thinking)  
+- **Focus**: Refine, test, and implement the final solution.  
+- **Activities**:  
+  - Usability testing  
+  - Iteration  
+  - Launching the product or feature  
+- **Goal**: Deliver a well-tested, user-centered product or service.  
+- **Example**: Finalizing the design and launching it with a feedback loop for continuous improvement.
+
+---
+
+## **Key Principles of the Double Diamond**
+
+- **Divergent Thinking**: Broad exploration of possibilities.  
+- **Convergent Thinking**: Focused refinement and decision-making.  
+- **User-Centered Design**: Prioritizing user needs throughout the process.  
+- **Iterative Process**: Encourages revisiting earlier stages if necessary.  
+
+---
+
+## **Why Is the Double Diamond Useful?**
+
+- **Simplifies Complex Processes**: Provides a clear roadmap for tackling design problems.  
+- **Encourages Collaboration**: Aligns teams around shared goals and processes.  
+- **Ensures Clarity**: Helps identify the right problem before rushing to solutions.  
+- **Promotes Innovation**: Enables exploration of creative ideas while maintaining focus.  
+
+---
+
+## **Visual Representation of the Double Diamond**
+
+     Discover          Define         Develop         Deliver
+/-------------/----------------/---------------/------------ / \ / \ / \ / \
+
+
+Each diamond represents a cycle of **divergent** (broad exploration) and **convergent** (focused refinement) thinking.
+
+---
+
+## **Example Use Case**:  
+Imagine redesigning a travel booking platform:  
+1. **Discover**: Conduct user interviews to identify frustrations with current booking systems.  
+2. **Define**: Narrow down findings to a key problem, such as *users struggling to compare flight prices easily*.  
+3. **Develop**: Brainstorm and prototype solutions, like a price-comparison feature with filters.  
+4. **Deliver**: Test the prototype with real users, refine it, and launch the final feature.
+
+---
+
+## **Conclusion**  
+The Double Diamond framework ensures a structured, iterative, and user-centered approach to solving complex design problems. By alternating between exploration and refinement, teams can innovate while staying focused on delivering impactful solutions.
+
+---
+
+### **License**  
+This content is open-source and can be freely used to understand or implement the Double Diamond framework.
+
 
 ### License
 
