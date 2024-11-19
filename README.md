@@ -15,6 +15,7 @@
 - [Choose a color](https://mycolor.space/)
 - [Flow Diagram](https://www.flowmapp.com/features/userflow)
 - [Linkedin Sales Navigator]
+- [Interview Tips](https://www.youtube.com/watch?v=FDUuhUSNtxc)
 
 ## 4 Pillars of Linkdin Growth
 
@@ -588,6 +589,12 @@ Imagine redesigning a travel booking platform:
 4. **Deliver**: Test the prototype with real users, refine it, and launch the final feature.
 
 ---
+
+![image](https://github.com/user-attachments/assets/2ae07ef6-c4ef-43f4-bf4e-b4cead31f384)
+![image](https://github.com/user-attachments/assets/ef78a5ba-bc66-4bed-a7e1-ea82f3ba5acf)
+![image](https://github.com/user-attachments/assets/8cd051a2-f2d9-4e4d-b578-f8f8461f862b)
+![image](https://github.com/user-attachments/assets/f5eb8bf7-658b-44da-83a5-ba4cde5dfe34)
+
 
 ## **Conclusion**  
 The Double Diamond framework ensures a structured, iterative, and user-centered approach to solving complex design problems. By alternating between exploration and refinement, teams can innovate while staying focused on delivering impactful solutions.
